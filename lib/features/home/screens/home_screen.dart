@@ -1,12 +1,7 @@
 import 'package:flutter/material.dart';
 
-void main() {
-  runApp(const Memora());
-}
-
-
-class Memora extends StatelessWidget {
-  const Memora({super.key});
+class HomeScreen extends StatelessWidget {
+  const HomeScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
