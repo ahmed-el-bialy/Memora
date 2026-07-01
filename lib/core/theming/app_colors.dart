@@ -7,4 +7,5 @@ class AppColors {
 
   static const Color iceBlue = Color(0xFFDAE2FD);
 
+  static const Color lavenderGray = Color(0xFFC6C5D5);
 }
